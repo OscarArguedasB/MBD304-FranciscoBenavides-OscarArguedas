@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="oscarargdb.database.windows.net.WideWorldImporters-Standard.CloudSA7391b5f8"
+  DTS:DTSID="{838BA205-6B52-4F06-946B-ED7475CC2AA1}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=oscarargdb.database.windows.net;User ID=CloudSA7391b5f8;Initial Catalog=WideWorldImporters-Standard;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-MBD304_PROYECTO_FINAL_SSIS-{838BA205-6B52-4F06-946B-ED7475CC2AA1}oscarargdb.database.windows.net.WideWorldImporters-Stand;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoyFs3hZnq0Kbw2ZOqHihpgAAAAACAAAAAAAQZgAAAAEAACAAAACfSB1Pi9g+b8K7ipVybPynyGbAlfvX5AY6tF2VCiEawQAAAAAOgAAAAAIAACAAAACqz10o+ZYwbGQ5EAKp4uFZfyYYd1Ed+iQcvr9KkYEejIAAAABbAB7K16i9BAGIeEJDjmEluC9IFNZhsA4NYCT4hLvsD6G1xwF4kivm0+bFpEzb+ad8y1VWwhflWgER3UnsMNXXZpJWgeTnxpRrVLEVTJO7RWYcLb82HJpSfA0Mv84jsFhaMR6cUZSl6yOMXkj8pYtkYeBBAeL9uVPKN+BtTJ3CHUAAAACyQM/VvrDa2szRAHXgfwnwMeBNzbfgO1kRszLrgrRt9bM6afwuGHbxqG2LyDjN5WY/jSG2ht7sHmC9RHkJNXc2</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

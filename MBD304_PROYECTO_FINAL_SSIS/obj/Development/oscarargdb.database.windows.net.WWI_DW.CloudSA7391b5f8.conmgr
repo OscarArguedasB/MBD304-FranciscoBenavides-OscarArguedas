@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="oscarargdb.database.windows.net.WWI_DW.CloudSA7391b5f8"
+  DTS:DTSID="{443164DA-CC4E-4AD4-8560-C61CDDF6BBB8}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=oscarargdb.database.windows.net;User ID=CloudSA7391b5f8;Initial Catalog=WWI_DW;Provider=SQLNCLI11.1;Persist Security Info=True;Application Name=SSIS-MBD304_PROYECTO_FINAL_SSIS-{443164DA-CC4E-4AD4-8560-C61CDDF6BBB8}oscarargdb.database.windows.net.WWI_DW.CloudSA7391b5f8;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
