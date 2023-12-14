@@ -32,4 +32,4 @@ La base de datos del Data Warehouse incluye varias tablas de dimensiones y una t
 
 ## Conclusión
 
-La realización de este proyecto marca un hito significativo en la capacidad de análisis y gestión de datos para nuestra organización. Hemos logrado establecer una infraestructura sólida que no solo consolida y mejora la calidad de nuestra información sino que también nos permite extraer conocimientos valiosos a través de la inteligencia empresarial. Este es solo el comienzo de nuestro continuo esfuerzo por mejorar y adaptar nuestras capacidades de gestión de datos en un entorno empresarial en constante evolución.
+Hemos logrado establecer una infraestructura sólida que no solo consolida y mejora la calidad de nuestra información sino que también nos permite extraer conocimientos valiosos a través de la inteligencia empresarial. Este es solo el comienzo de nuestro continuo esfuerzo por mejorar y adaptar nuestras capacidades de gestión de datos en un entorno empresarial en constante evolución.
